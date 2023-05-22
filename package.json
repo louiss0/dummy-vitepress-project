@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "dependencies": {
+    "vitepress": "1.0.0-alpha.76"
+  },
+  "devDependencies": {
+    "vite-plugin-vue-nested-sfc": "^0.1.2"
+  }
+}
